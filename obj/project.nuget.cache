@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKasfEr09BqZ4u/ENnIaxmCSTbwc1D/K4TfkG8bS5Ryd5+bK/gIbvA/cghgCA5JJxIsWramQkKG2KR0YPWOtsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlnote15\\Desktop\\Guilherme\\JogoDaVelhaWPF\\JogoDaVelha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlnote15\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
